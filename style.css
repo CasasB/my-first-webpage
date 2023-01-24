@@ -42,7 +42,7 @@ section, p{
 
 /* the following 2 sections are designed to ensure that each section box sizing is properly coded & styled*/
 .gallery-section{
-  height: 680px;
+  height: 300px;
 }
 
 .contact-section{
