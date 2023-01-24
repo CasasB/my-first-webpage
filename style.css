@@ -35,30 +35,6 @@ h3{
   color:#52489C;
 }
 
-/* the following three style classes are specifically designed to ensure that each section box in the main container is properly coded & styled*/
-.style-one{
-  width:250px;
-  padding: 20px;
-  margin-bottom:200px;
-  margin-top:-25px;
-
-}
-
-.style-two{
- text-align:center;
-  margin-top: -665px;
-  padding: 0px;
-  margin-bottom:350px;
-}
-
-.style-three{
-  text-align: center;
-width:250px;
-padding-left:520px;
-  margin-top:-540px;
-  margin-bottom:150px;
-}
-
 /* adding in some text color*/
 section, p{
   color:#1D8A99;
