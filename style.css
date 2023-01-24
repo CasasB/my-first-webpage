@@ -40,14 +40,9 @@ section, p{
   color:#1D8A99;
 }
 
-/* the following 2 sections are designed to ensure that each section box sizing is properly coded & styled*/
-.gallery-section{
-  height: 20px;
-}
 
 .contact-section{
   margin-top:20px;
-   height:20px;
 }
 
 article{
