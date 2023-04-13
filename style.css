@@ -9,6 +9,7 @@ a:active {color:#ADB9E3 ;}/*'active' is the color displayed when you actively cl
   background-color: #8D99AE;
   text-align: center;
   padding:15px;
+  height: 20px;
 }
 
 /* this css class is assigned to the main container content in the webpage*/
@@ -16,6 +17,7 @@ a:active {color:#ADB9E3 ;}/*'active' is the color displayed when you actively cl
   background-color:#EDF2F4;
   text-align:center;
   padding-top:15px;
+  height: 20px;
 }
 
 /* this is a groupd of css selectors to simplify my code*/
@@ -38,6 +40,7 @@ h3{
 /* adding in some text color*/
 section, p{
   color:#1D8A99;
+  font-size:25px;
 }
 
 
