@@ -1,8 +1,20 @@
 /* this code is for all clickable links on my page. */
-a:link {color: #34344A;} /* 'link' is the standard color you see once arriving to my page */
-a:visited {color:#80475E;}/* 'visited' is the color you see after you have clicked on the link */
-a:hover {color: #59C3C3;}/* 'hover' is the color displayed when your cursor hover over the link */
-a:active {color:#ADB9E3 ;}/*'active' is the color displayed when you actively click on the link */
+a:link {
+  color: #34344A;
+  font-size: 15px;
+} /* 'link' is the standard color you see once arriving to my page */
+a:visited {
+  color: #80475E;
+  font-size: 15px;
+}/* 'visited' is the color you see after you have clicked on the link */
+a:hover {
+  color: #59C3C3;
+  font-size: 15px;
+}/* 'hover' is the color displayed when your cursor hover over the link */
+a:active {
+  color: #ADB9E3;
+  font-size: 15px;
+}/*'active' is the color displayed when you actively click on the link */
 
 /* this css class is assigned to the header & footer only*/
 .dark-background {
