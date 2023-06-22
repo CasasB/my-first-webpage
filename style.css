@@ -17,33 +17,3 @@ a:active {color:#ADB9E3 ;}/*'active' is the color displayed when you actively cl
   text-align:center;
   font-size:15px;
 }
-
-/* this is a group of css selectors to simplify my code*/
-h1, {
-  color: #2B2D42;
-  font-size:20px;
-}
-
-/*this applies only to the h2 content in my webpage */
-h2{
-  color:#43AA8B;
-  font-family: 'sans-serif',Georgia, times;
-  text-align: center;
-  font-size:20px;
-}
-
-/*this applies only to the h3 content in my webpage */
-h3{
-  color:#52489C;
-  font-size:20px;
-}
-
-/* adding in some text color*/
-section, p{
-  color:#1D8A99;
-  font-size:15px;
-}
-
-article{
-  text-align:center;
-}
