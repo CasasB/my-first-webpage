@@ -21,7 +21,7 @@ a:active {color:#ADB9E3 ;}/*'active' is the color displayed when you actively cl
 /* this is a group of css selectors to simplify my code*/
 h1, footer p{
   color: #2B2D42;
-  font-size:20px;
+  font-size:200px;
 }
 
 /*this applies only to the h2 content in my webpage */
