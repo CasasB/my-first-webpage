@@ -21,7 +21,7 @@
  /* this is a groupd of css selectors to simplify my code*/
  h1, footer p{
    color: #2B2D42;
-  height: 150px;
+  height: 350px;
  }
 
  /*this applies only to the h2 content in my webpage */
@@ -29,13 +29,13 @@
    color:#43AA8B;
    font-family: 'sans-serif',Georgia, times;
    text-align: center;
-  height:500px;
+  height:3500px;
  }
 
  /*this applies only to the h3 content in my webpage */
  h3{
    color:#52489C;
-  height:500px;
+  height:350px;
  }
 
  /* adding in some text color*/
