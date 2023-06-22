@@ -15,8 +15,8 @@
  .light-background{
    background-color:#EDF2F4;
    text-align:center;
-   padding-top:15px;
- }
+   padding-top:150px;
+   height: 80px; }
 
  /* this is a groupd of css selectors to simplify my code*/
  h1, footer p{
